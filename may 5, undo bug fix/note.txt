@@ -1,0 +1,2 @@
+there is a bug, when player 1 has a free turn and undo is hit, it counts as player 2 hit undo.
+It is fixed.
